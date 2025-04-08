@@ -48,7 +48,7 @@ pnpm run dev:agent-tars
 
 - AI Models使用默认的Model，禁止勾选Use custom model name，所以最好使用官方的api接口，否则会出现ai调用不了工具的情况
 
-  ![image-20250408150134764](C:\Users\ios\AppData\Roaming\Typora\typora-user-images\image-20250408150134764.png)
+  ![image-20250408150134764](https://github.com/da2cff7a-6331-499e-a0cb-b5957b9e750f)
 
 - 配置File System，此处删除所有Directory，否则出现无法写入文件，无法读取文件问题，删除后默认写入文件到C:\Users\xxx\\.omega下
 
